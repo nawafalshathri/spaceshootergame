@@ -4,11 +4,11 @@ This is a Space shooter game!
 open spaceshootergame.pde to start playing!
 
 
-# INSTRUCTIONS
+INSTRUCTIONS:
 
 Control with your mouse, click to fire at incoming ships, and dodge missiles and meteors!
 
-# DOWNLOAD THE PROCESSING JAVA FRAMEWORK
+ DOWNLOAD THE PROCESSING JAVA FRAMEWORK HERE:
 
 https://processing.org/
 
